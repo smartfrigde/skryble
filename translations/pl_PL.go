@@ -1,6 +1,6 @@
 package translations
 
-func initEnglishTranslation() Translation {
+func initPolishTranslation() Translation {
 	translation := createTranslation()
 
 	translation.put("requires-js", "Ta strona wymaga Javascript aby działała poprawnie.")
