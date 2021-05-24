@@ -46,7 +46,7 @@ a:hover {
 h1, h2 {
     margin: 0;
     text-align: center;
-    color: rgb(248, 148, 164);
+    color: rgb(255, 255, 255);
 }
 
 h1 {
@@ -91,11 +91,11 @@ ul {
 }
 
 kbd {
-    background-color: #eee;
+    background-color: rgb(0, 0, 0);
     border-radius: 3px;
-    border: 1px solid #b4b4b4;
+    border: 1px solid #333232;
     box-shadow: 0 1px 1px rgb(0 0 0 / 20%), 0 2px 0 0 rgb(255 255 255 / 70%) inset;
-    color: #333;
+    color: rgb(0, 0, 0);
     display: inline-block;
     font-size: .85em;
     font-weight: 700;
